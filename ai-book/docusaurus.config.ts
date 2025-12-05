@@ -8,12 +8,12 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Production URL
-  url: 'https://1hmed1.github.io',
-  baseUrl: '/physical-ai-book/',
+  url: 'https://your-docusaurus-site.example.com',
+  baseUrl: '/',
 
   // GitHub pages deployment config
-  organizationName: '1hmed1',
-  projectName: 'physical-ai-book',
+  organizationName: 'facebook',
+  projectName: 'docusarus',
   deploymentBranch: 'gh-pages',
 
   trailingSlash: false,
